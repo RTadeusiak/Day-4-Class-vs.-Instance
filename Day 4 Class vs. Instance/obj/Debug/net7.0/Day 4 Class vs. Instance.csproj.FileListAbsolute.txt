@@ -1,0 +1,15 @@
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\net7.0\Day 4 Class vs. Instance.exe
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\net7.0\Day 4 Class vs. Instance.deps.json
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\net7.0\Day 4 Class vs. Instance.runtimeconfig.json
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\net7.0\Day 4 Class vs. Instance.dll
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\net7.0\Day 4 Class vs. Instance.pdb
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.csproj.AssemblyReference.cache
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.AssemblyInfoInputs.cache
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.AssemblyInfo.cs
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.csproj.CoreCompileInputs.cache
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.dll
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\refint\Day 4 Class vs. Instance.dll
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.pdb
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\Day 4 Class vs. Instance.genruntimeconfig.cache
+C:\Users\Y 700\source\repos\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\net7.0\ref\Day 4 Class vs. Instance.dll
